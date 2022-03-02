@@ -1,0 +1,268 @@
+﻿
+@{ Layout = null; }
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr">
+    <link rel="stylesheet" type="text/css" href="~/Content/css/Dashboard_css.css">
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+    <script src="https://www.google.com/jsapi"></script>
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script>
+
+        google.load("visualization", "1", { packages: ["corechart"] });
+        //Load Year Wise Report On Load
+        $(document).ready(function () {
+            $.ajax({
+                url: '/Dashboard/GetData',
+                type: 'get',
+                dataType: 'json',
+                data: {},
+                success: function (d) {
+
+                    chartDataYear = d;
+                    console.log(chartDataYear)
+                },
+                error: function () {
+                }
+            }).done(function () {
+
+            });
+        });
+    </script>
+
+
+
+
+    <script type="text/javascript">
+        google.charts.load('current', { packages: ['corechart'] });
+        google.setOnLoadCallback(drawPieChart);
+        function drawPieChart() {
+            $.get('/API/OrderbyModel', {},
+                function (data) {
+                    var tdata = new google.visualization.DataTable();
+                    tdata.addColumn('string', 'Topic');
+                    tdata.addColumn('number', 'Amount');
+                    for (var i = 0; i < data.length; i++) {
+                        tdata.addRow([data[i].Model, data[i].Amount]);
+
+                    }
+                    var options = {
+                        width: 750,
+                        height: 400,
+                        'title': 'สถิติการกล่าวถึงวิชาต่าง ๆ'
+
+                    };
+                    var chart = new google.visualization.PieChart(document.getElementById('pie_chart'));
+                    chart.draw(tdata, options);
+
+                });
+
+        }
+    </script>
+
+
+    <!--
+        <script type="text/javascript">
+            google.load('visualization', '1.1', { packages: ['line'] });
+            google.setOnLoadCallback(drawLineChart);
+            function drawLineChart() {
+                $.get('/API/RequestgameModel', {},
+                    function (data) {
+                        var tdata = new google.visualization.DataTable();
+                        tdata.addColumn('string', 'Model');
+                        tdata.addColumn('number', 'Amount');
+                        for (var i = 0; i < data.length; i++) {
+                            tdata.addRow([data[i].Model, data[i].Amount]);
+                        }
+                        var options = {
+                            width: 750,
+                            height: 400
+                        };
+                        var chart = new google.charts.Line(document.getElementById('line_chart'));
+                        chart.draw(tdata, options);
+                    });
+            }
+        </script>
+    -->
+
+
+    <script type="text/javascript">
+        google.charts.load('current', { packages: ['corechart'] });
+        google.setOnLoadCallback(drawPieChart);
+        function drawPieChart() {
+            $.get('/API/RequestgameModel', {},
+                function (data) {
+                    var tdata = new google.visualization.DataTable();
+                    tdata.addColumn('string', 'Topic');
+                    tdata.addColumn('number', 'Amount');
+                    for (var i = 0; i < data.length; i++) {
+                        tdata.addRow([data[i].Model, data[i].Amount]);
+
+                    }
+                    var options = {
+                        width: 750,
+                        height: 400,
+                        'title': 'สถิติการกล่าวถึงวิชาต่าง ๆ'
+
+                    };
+                    var chart = new google.visualization.PieChart(document.getElementById('pie_chartRequestgameModel'));
+                    chart.draw(tdata, options);
+
+                });
+
+        }
+    </script>
+
+
+
+
+    <title>Index</title>
+</head>
+<body>
+    <input type="checkbox" id="check" />
+    <label for="check">
+        <i class="fa fa-bars" id="okbuttom">
+            <ion-icon name="menu-outline"></ion-icon>
+        </i>
+
+        <i class="fa fa-time" id="cancelbuttom">
+            <ion-icon name="close-outline"></ion-icon>
+        </i>
+
+    </label>
+
+    <div class="navigation">
+        <ul>
+            <content>FPTP</content>
+            
+            <li>
+                <a href="#">
+                    <span class="icon"><ion-icon name="home-outline"></ion-icon></span>
+                    <span class="title">Home</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="~/UserDatas/Index">
+                    <span class="icon"><ion-icon name="person-outline"></ion-icon></span>
+                    <span class="title">Account</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="~/RQ_Reported/Index">
+                    <span class="icon"><ion-icon name="reader-outline"></ion-icon></span>
+                    <span class="title">Reported</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="~/DataGames/Index">
+                    <span class="icon"><ion-icon name="game-controller-outline"></ion-icon></span>
+                    <span class="title">System Information</span>
+                </a>
+            </li>
+
+
+            <li>
+                <a href="~/RequestGameDatas/Index">
+                    <span class="icon"><ion-icon name="git-pull-request-outline"></ion-icon></span>
+                    <span class="title">Request</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="~/Notification_Admin/Index">
+                    <span class="icon"><ion-icon name="notifications-outline"></ion-icon></span>
+                    <span class="title">Notification</span>
+                </a>
+            </li>
+
+            <li>
+                @Html.Partial("_LoginPartial")
+            </li>
+        </ul>
+    </div>
+
+    <!--ที่ปิดเมนู / ช่องค้นหา / โปรไฟล์ Admin-->
+    <div class="main">
+        <div class="topbar">
+            <div class="Namepage">
+                <h3>Dashboard</h3>
+            </div>
+
+            
+            <div class="accountPic">
+                <img src="~/Content/images/SH2.jpg" />
+            </div>
+        </div>
+
+        <!-- กรอบข้อมูลด้านบน-->
+        <div class="carbBox">
+
+            <div class="card">
+                <div>
+                    <div class="numbers"> @ViewBag.CountUser </div>
+                    <div class="cardName">Account</div>
+                </div>
+                <div class="iconBox">
+                    <ion-icon name="people-outline"></ion-icon>
+                </div>
+            </div>
+
+            <div class="card">
+                <div>
+                    <div class="numbers"> @ViewBag.CountRqGame </div>
+                    <div class="cardName">Request Game</div>
+                </div>
+                <div class="iconBox">
+                    <ion-icon name="git-pull-request-outline"></ion-icon>
+                </div>
+            </div>
+
+
+            <div class="card">
+                <div>
+                    <div class="numbers"> @ViewBag.CountGame </div>
+                    <div class="cardName">Game In System</div>
+                </div>
+                <div class="iconBox">
+                    <ion-icon name="game-controller-outline"></ion-icon>
+                </div>
+            </div>
+        </div>
+
+        <!-- กรอบข้อมูลกราฟ-->
+        <div class="details">
+            <div class="graph">
+                <div class="cardHeader" name="cardGraph">
+                    <h2>พื้นที่แสดงกราฟ</h2>
+
+                    <!--คำสั่งใส่กราฟ-->
+                    <div id="pie_chart" style="position:center"> </div>
+
+                     
+                    <br />
+
+                    <div id="line_chart"></div>
+
+                    <div id="pie_chartRequestgameModel" ></div>
+                    <!--<table id="DataGame" class="table"></table>-->
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

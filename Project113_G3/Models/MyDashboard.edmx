@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="MyDashboardModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Datagame">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NameGame" Type="nvarchar" MaxLength="50" />
+          <Property Name="TypeGame" Type="nvarchar" MaxLength="50" />
+          <Property Name="Description_Game" Type="nvarchar" MaxLength="250" />
+          <Property Name="url" Type="varchar" MaxLength="250" />
+        </EntityType>
+        <EntityType Name="RequestGameData">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RQGUsername" Type="nvarchar" MaxLength="50" />
+          <Property Name="RQGGame" Type="nvarchar" MaxLength="50" />
+          <Property Name="RQGDes" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="RQ_Reported">
+          <Key>
+            <PropertyRef Name="RQrp_ByUsername" />
+          </Key>
+          <Property Name="RQrp_Id" Type="int" Nullable="false" />
+          <Property Name="RQrp_ByUsername" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="RQrp_ToUserName" Type="nvarchar" MaxLength="50" />
+          <Property Name="RQrp_Toppic" Type="nvarchar" MaxLength="100" />
+          <Property Name="RQrp_Date" Type="datetime" />
+          <Property Name="RQrp_Note" Type="nvarchar" MaxLength="300" />
+        </EntityType>
+        <EntityType Name="UserData">
+          <Key>
+            <PropertyRef Name="UID" />
+          </Key>
+          <Property Name="UID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" />
+          <Property Name="Email_User" Type="nvarchar" MaxLength="256" />
+          <Property Name="Bd_User" Type="date" />
+          <Property Name="GenderUser" Type="nvarchar" MaxLength="50" />
+          <Property Name="Description" Type="nvarchar" MaxLength="250" />
+          <Property Name="User_Id" Type="nvarchar" MaxLength="128" />
+          <Property Name="url" Type="varchar" MaxLength="250" />
+          <Property Name="JoinDate" Type="datetime" />
+        </EntityType>
+        <EntityContainer Name="MyDashboardModelStoreContainer">
+          <EntitySet Name="Datagame" EntityType="Self.Datagame" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="RequestGameData" EntityType="Self.RequestGameData" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="RQ_Reported" EntityType="Self.RQ_Reported" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UserData" EntityType="Self.UserData" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MyDashboardModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Datagame">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NameGame" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TypeGame" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Description_Game" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="url" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="UserData">
+          <Key>
+            <PropertyRef Name="UID" />
+          </Key>
+          <Property Name="UID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Email_User" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+          <Property Name="Bd_User" Type="DateTime" Precision="0" />
+          <Property Name="GenderUser" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="User_Id" Type="String" MaxLength="128" FixedLength="false" Unicode="true" />
+          <Property Name="url" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="JoinDate" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityContainer Name="DashboardEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Datagames" EntityType="Self.Datagame" />
+          <EntitySet Name="UserDatas" EntityType="Self.UserData" />
+          <EntitySet Name="RequestGameDatas" EntityType="MyDashboardModel.RequestGameData" />
+          <EntitySet Name="RQ_Reported" EntityType="MyDashboardModel.RQ_Reported" />
+        </EntityContainer>
+        <EntityType Name="RequestGameData">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RQGUsername" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="RQGGame" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="RQGDes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="RQ_Reported">
+          <Key>
+            <PropertyRef Name="RQrp_ByUsername" />
+          </Key>
+          <Property Name="RQrp_Id" Type="Int32" Nullable="false" />
+          <Property Name="RQrp_ByUsername" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="RQrp_ToUserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="RQrp_Toppic" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="RQrp_Date" Type="DateTime" Precision="3" />
+          <Property Name="RQrp_Note" Type="String" MaxLength="300" FixedLength="false" Unicode="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MyDashboardModelStoreContainer" CdmEntityContainer="DashboardEntities">
+          <EntitySetMapping Name="Datagames">
+            <EntityTypeMapping TypeName="MyDashboardModel.Datagame">
+              <MappingFragment StoreEntitySet="Datagame">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="NameGame" ColumnName="NameGame" />
+                <ScalarProperty Name="TypeGame" ColumnName="TypeGame" />
+                <ScalarProperty Name="Description_Game" ColumnName="Description_Game" />
+                <ScalarProperty Name="url" ColumnName="url" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UserDatas">
+            <EntityTypeMapping TypeName="MyDashboardModel.UserData">
+              <MappingFragment StoreEntitySet="UserData">
+                <ScalarProperty Name="UID" ColumnName="UID" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Email_User" ColumnName="Email_User" />
+                <ScalarProperty Name="Bd_User" ColumnName="Bd_User" />
+                <ScalarProperty Name="GenderUser" ColumnName="GenderUser" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+                <ScalarProperty Name="url" ColumnName="url" />
+                <ScalarProperty Name="JoinDate" ColumnName="JoinDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RequestGameDatas">
+            <EntityTypeMapping TypeName="MyDashboardModel.RequestGameData">
+              <MappingFragment StoreEntitySet="RequestGameData">
+                <ScalarProperty Name="RQGDes" ColumnName="RQGDes" />
+                <ScalarProperty Name="RQGGame" ColumnName="RQGGame" />
+                <ScalarProperty Name="RQGUsername" ColumnName="RQGUsername" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RQ_Reported">
+            <EntityTypeMapping TypeName="MyDashboardModel.RQ_Reported">
+              <MappingFragment StoreEntitySet="RQ_Reported">
+                <ScalarProperty Name="RQrp_Note" ColumnName="RQrp_Note" />
+                <ScalarProperty Name="RQrp_Date" ColumnName="RQrp_Date" />
+                <ScalarProperty Name="RQrp_Toppic" ColumnName="RQrp_Toppic" />
+                <ScalarProperty Name="RQrp_ToUserName" ColumnName="RQrp_ToUserName" />
+                <ScalarProperty Name="RQrp_ByUsername" ColumnName="RQrp_ByUsername" />
+                <ScalarProperty Name="RQrp_Id" ColumnName="RQrp_Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

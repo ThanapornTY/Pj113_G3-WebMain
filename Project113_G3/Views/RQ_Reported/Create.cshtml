@@ -1,0 +1,180 @@
+﻿@model Project113_G3.Models.RQ_Reported
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr">
+    <link rel="stylesheet" type="text/css" href="~/Content/css/Dashboard_css.css">
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+
+    <title>Index</title>
+</head>
+<body>
+    <input type="checkbox" id="check" />
+    <label for="check">
+        <i class="fa fa-bars" id="okbuttom">
+            <ion-icon name="menu-outline"></ion-icon>
+        </i>
+
+        <i class="fa fa-time" id="cancelbuttom">
+            <ion-icon name="close-outline"></ion-icon>
+        </i>
+
+    </label>
+
+    <div class="navigation">
+        <ul>
+            <content>FPTP</content>
+            
+            <li>
+                <a href="~/Dashboard/Index">
+                    <span class="icon"><ion-icon name="home-outline"></ion-icon></span>
+                    <span class="title">Home</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="~/UserDatas/Index">
+                    <span class="icon"><ion-icon name="person-outline"></ion-icon></span>
+                    <span class="title">Account</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="~/RQ_Reported/Index">
+                    <span class="icon"><ion-icon name="reader-outline"></ion-icon></span>
+                    <span class="title">Reported</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="~/DataGames/Index">
+                    <span class="icon"><ion-icon name="game-controller-outline"></ion-icon></span>
+                    <span class="title">System Information</span>
+                </a>
+            </li>
+
+
+            <li>
+                <a href="~/RequestGameDatas/Index">
+                    <span class="icon"><ion-icon name="git-pull-request-outline"></ion-icon></span>
+                    <span class="title">Request</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="~/Notification_Admin/Index">
+                    <span class="icon"><ion-icon name="notifications-outline"></ion-icon></span>
+                    <span class="title">Notification</span>
+                </a>
+            </li>
+
+            <li>
+                @Html.Partial("_LoginPartial")
+            </li>
+        </ul>
+    </div>
+
+    <!--ที่ปิดเมนู / ช่องค้นหา / โปรไฟล์ Admin-->
+    <div class="main">
+        <div class="topbar">
+            <div class="Namepage">
+                <h3>Create Reported</h3>
+            </div>
+
+            
+
+            <div class="accountPic">
+                <img src="~/Content/images/SH2.jpg" />
+            </div>
+        </div>
+
+
+        <!-- กรอบข้อมูลกราฟ-->
+        <div class="details">
+
+            <div class="graph">
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    <h4>RQ_Reported</h4>
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <!--
+    <div class="form-group">
+        Html.LabelFor(model => model.RQrp_Id, htmlAttributes: new { class = "control-label col-md-2" })
+        <div class="col-md-10">
+            Html.EditorFor(model => model.RQrp_Id, new { htmlAttributes = new { class = "form-control" } })
+            Html.ValidationMessageFor(model => model.RQrp_Id, "", new { class = "text-danger" })
+        </div>
+    </div>-->
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.RQrp_ByUsername, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.RQrp_ByUsername, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.RQrp_ByUsername, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.RQrp_ToUserName, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.RQrp_ToUserName, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.RQrp_ToUserName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.RQrp_Toppic, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.RQrp_Toppic, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.RQrp_Toppic, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <!-- <div class="form-group">
+        @Html.LabelFor(model => model.RQrp_Date, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.RQrp_Date, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.RQrp_Date, "", new { @class = "text-danger" })
+        </div>
+    </div>-->
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.RQrp_Note, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.RQrp_Note, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.RQrp_Note, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Create" class="btn btn-default" />
+                        </div>
+                    </div>
+                </div>
+                }
+
+                <div>
+                    @Html.ActionLink("Back to List", "Index")
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

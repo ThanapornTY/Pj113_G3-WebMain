@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="UserDataAccEntities">
+    <EntitySetMapping Name="UserDatas">
+      <EntityTypeMapping TypeName="Model.UserData">
+        <MappingFragment StoreEntitySet="UserData">
+          <ScalarProperty Name="UID" ColumnName="UID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email_User" ColumnName="Email_User" />
+          <ScalarProperty Name="Bd_User" ColumnName="Bd_User" />
+          <ScalarProperty Name="GenderUser" ColumnName="GenderUser" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="JoinDate" ColumnName="JoinDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RQ_Reported">
+      <EntityTypeMapping TypeName="Model.RQ_Reported">
+        <MappingFragment StoreEntitySet="RQ_Reported">
+          <ScalarProperty Name="RQrp_Note" ColumnName="RQrp_Note" />
+          <ScalarProperty Name="RQrp_Date" ColumnName="RQrp_Date" />
+          <ScalarProperty Name="RQrp_Toppic" ColumnName="RQrp_Toppic" />
+          <ScalarProperty Name="RQrp_ToUserName" ColumnName="RQrp_ToUserName" />
+          <ScalarProperty Name="RQrp_ByUsername" ColumnName="RQrp_ByUsername" />
+          <ScalarProperty Name="RQrp_Id" ColumnName="RQrp_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

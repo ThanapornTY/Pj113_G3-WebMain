@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Model2StoreContainer" CdmEntityContainer="RequestGame">
+    <EntitySetMapping Name="RequestGameData">
+      <EntityTypeMapping TypeName="Model2.RequestGameData">
+        <MappingFragment StoreEntitySet="RequestGameData">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RQGUsername" ColumnName="RQGUsername" />
+          <ScalarProperty Name="RQGGame" ColumnName="RQGGame" />
+          <ScalarProperty Name="RQGDes" ColumnName="RQGDes" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

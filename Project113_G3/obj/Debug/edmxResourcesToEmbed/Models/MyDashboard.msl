@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyDashboardModelStoreContainer" CdmEntityContainer="DashboardEntities">
+    <EntitySetMapping Name="Datagames">
+      <EntityTypeMapping TypeName="MyDashboardModel.Datagame">
+        <MappingFragment StoreEntitySet="Datagame">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NameGame" ColumnName="NameGame" />
+          <ScalarProperty Name="TypeGame" ColumnName="TypeGame" />
+          <ScalarProperty Name="Description_Game" ColumnName="Description_Game" />
+          <ScalarProperty Name="url" ColumnName="url" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserDatas">
+      <EntityTypeMapping TypeName="MyDashboardModel.UserData">
+        <MappingFragment StoreEntitySet="UserData">
+          <ScalarProperty Name="UID" ColumnName="UID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email_User" ColumnName="Email_User" />
+          <ScalarProperty Name="Bd_User" ColumnName="Bd_User" />
+          <ScalarProperty Name="GenderUser" ColumnName="GenderUser" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="JoinDate" ColumnName="JoinDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RequestGameDatas">
+      <EntityTypeMapping TypeName="MyDashboardModel.RequestGameData">
+        <MappingFragment StoreEntitySet="RequestGameData">
+          <ScalarProperty Name="RQGDes" ColumnName="RQGDes" />
+          <ScalarProperty Name="RQGGame" ColumnName="RQGGame" />
+          <ScalarProperty Name="RQGUsername" ColumnName="RQGUsername" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RQ_Reported">
+      <EntityTypeMapping TypeName="MyDashboardModel.RQ_Reported">
+        <MappingFragment StoreEntitySet="RQ_Reported">
+          <ScalarProperty Name="RQrp_Note" ColumnName="RQrp_Note" />
+          <ScalarProperty Name="RQrp_Date" ColumnName="RQrp_Date" />
+          <ScalarProperty Name="RQrp_Toppic" ColumnName="RQrp_Toppic" />
+          <ScalarProperty Name="RQrp_ToUserName" ColumnName="RQrp_ToUserName" />
+          <ScalarProperty Name="RQrp_ByUsername" ColumnName="RQrp_ByUsername" />
+          <ScalarProperty Name="RQrp_Id" ColumnName="RQrp_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

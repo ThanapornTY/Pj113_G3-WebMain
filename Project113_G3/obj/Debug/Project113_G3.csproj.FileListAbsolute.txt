@@ -1,0 +1,949 @@
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Project113_G3.dll.config
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Project113_G3.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Project113_G3.pdb
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\csc.exe
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\csc.exe.config
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\csc.rsp
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\csi.exe
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\csi.exe.config
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\csi.rsp
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.AppContext.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Console.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.IO.Compression.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Net.Http.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Net.Sockets.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.ValueTuple.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Xml.XPath.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\vbc.exe
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\vbc.exe.config
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\vbc.rsp
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\VBCSCompiler.exe
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Antlr3.Runtime.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\EntityFramework.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\EntityFramework.SqlServer.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Newtonsoft.Json.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Owin.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.Helpers.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.Mvc.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.Optimization.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.Razor.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.WebPages.Deployment.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.WebPages.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.WebPages.Razor.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\WebGrease.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.Helpers.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.Mvc.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.Optimization.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.Razor.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.WebPages.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.WebPages.Deployment.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\System.Web.WebPages.Razor.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Newtonsoft.Json.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Antlr3.Runtime.pdb
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\EntityFramework.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\EntityFramework.SqlServer.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\obj\Debug\Project113_G3.csproj.CoreCompileInputs.cache
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\obj\Debug\Project113_G3.csproj.CopyComplete
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\obj\Debug\Project113_G3.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\obj\Debug\Project113_G3.pdb
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\obj\Debug\Project113_G3.Migrations.InitialCreate.resources
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\obj\Debug\Project113_G3.csproj.GenerateResource.cache
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.ReportViewer.Common.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.ReportViewer.Design.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.SqlServer.Types.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\EnvDTE.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\stdole.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\Microsoft.MSXML.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\ปี2\เทอม2\1101113\FindPartyToPaly Pj113\Project113_G3\Project113_G3\obj\Debug\Project113_G3.csproj.AssemblyReference.cache
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\SqlServerTypes\x64\msvcr120.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\SqlServerTypes\x86\msvcr120.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Project113_G3.dll.config
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Project113_G3.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Project113_G3.pdb
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\csc.exe
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\csc.exe.config
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\csc.rsp
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\csi.exe
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\csi.exe.config
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\csi.rsp
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.AppContext.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Collections.Immutable.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Console.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Globalization.Calendars.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.IO.Compression.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.IO.FileSystem.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Net.Http.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Net.Sockets.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Reflection.Metadata.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.ValueTuple.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Xml.XPath.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\vbc.exe
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\vbc.exe.config
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\vbc.rsp
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\VBCSCompiler.exe
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\roslyn\VBCSCompiler.exe.config
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Antlr3.Runtime.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\EntityFramework.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\EntityFramework.SqlServer.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.Google.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.ReportViewer.Common.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.ReportViewer.Design.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.ReportViewer.WebForms.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.SqlServer.Types.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Web.Infrastructure.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Newtonsoft.Json.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Owin.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.Helpers.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.Mvc.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.Optimization.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.Razor.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.WebPages.Deployment.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.WebPages.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.WebPages.Razor.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\WebGrease.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\EnvDTE.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.ReportViewer.WinForms.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\stdole.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.MSXML.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\EntityFramework.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\EntityFramework.SqlServer.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.Helpers.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.Mvc.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.Optimization.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.Razor.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.WebPages.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.WebPages.Deployment.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\System.Web.WebPages.Razor.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Newtonsoft.Json.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Antlr3.Runtime.pdb
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.Google.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\obj\Debug\Project113_G3.csproj.AssemblyReference.cache
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\obj\Debug\Project113_G3.Migrations.InitialCreate.resources
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\obj\Debug\Project113_G3.csproj.GenerateResource.cache
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\obj\Debug\Project113_G3.csproj.CoreCompileInputs.cache
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\obj\Debug\Project113_G3.csproj.CopyComplete
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\obj\Debug\Project113_G3.dll
+D:\VS code\file\Project\ออย\Commit\15-2-65\New folder\Project113_G3-main\Project113_G3\obj\Debug\Project113_G3.pdb
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.Migrations.InitialCreate.resources
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.GenerateResource.cache
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.CoreCompileInputs.cache
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.pdb
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Project113_G3.dll.config
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Project113_G3.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Project113_G3.pdb
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csc.exe
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csc.exe.config
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csc.rsp
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csi.exe
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csi.exe.config
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csi.rsp
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.AppContext.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Collections.Immutable.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Console.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.Compression.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.FileSystem.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Net.Http.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Net.Sockets.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.ValueTuple.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.XPath.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\vbc.exe
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\vbc.exe.config
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\vbc.rsp
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\VBCSCompiler.exe
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\roslyn\VBCSCompiler.exe.config
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Antlr3.Runtime.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.SqlServer.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Google.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.Common.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.Design.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.SqlServer.Types.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Web.Infrastructure.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Newtonsoft.Json.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Owin.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Helpers.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Mvc.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Optimization.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Razor.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Deployment.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Razor.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\WebGrease.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\EnvDTE.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\stdole.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.MSXML.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.SqlServer.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Helpers.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Mvc.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Optimization.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Razor.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Deployment.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Razor.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Newtonsoft.Json.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Antlr3.Runtime.pdb
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Google.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pj113_G3 Xamarin\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.CopyComplete
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Project113_G3.dll.config
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Project113_G3.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Project113_G3.pdb
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csc.exe
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csc.exe.config
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csc.rsp
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csi.exe
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csi.exe.config
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csi.rsp
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.AppContext.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Console.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.Compression.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Net.Http.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Net.Sockets.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.ValueTuple.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.XPath.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\vbc.exe
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\vbc.exe.config
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\vbc.rsp
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\VBCSCompiler.exe
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Antlr3.Runtime.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.SqlServer.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.Common.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.Design.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.SqlServer.Types.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Newtonsoft.Json.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Owin.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Helpers.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Mvc.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Optimization.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Razor.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Razor.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\WebGrease.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EnvDTE.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\stdole.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.MSXML.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.SqlServer.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Helpers.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Mvc.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Optimization.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Razor.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Razor.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Newtonsoft.Json.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Antlr3.Runtime.pdb
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.AssemblyReference.cache
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.Migrations.InitialCreate.resources
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.GenerateResource.cache
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.CoreCompileInputs.cache
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.CopyComplete
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.dll
+D:\Work\Project113_G3 Final\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.pdb
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Project113_G3.dll.config
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Project113_G3.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Project113_G3.pdb
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csc.exe
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csc.exe.config
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csc.rsp
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csi.exe
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csi.exe.config
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\csi.rsp
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.AppContext.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Console.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.Compression.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Net.Http.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Net.Sockets.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.ValueTuple.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.XPath.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\vbc.exe
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\vbc.exe.config
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\vbc.rsp
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\VBCSCompiler.exe
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Antlr3.Runtime.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.SqlServer.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.Common.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.Design.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.SqlServer.Types.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Newtonsoft.Json.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Owin.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Helpers.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Mvc.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Optimization.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Razor.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Razor.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\WebGrease.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EnvDTE.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\stdole.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.MSXML.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\EntityFramework.SqlServer.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Helpers.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Mvc.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Optimization.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.Razor.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\System.Web.WebPages.Razor.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Newtonsoft.Json.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Antlr3.Runtime.pdb
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.AssemblyReference.cache
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.Migrations.InitialCreate.resources
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.GenerateResource.cache
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.CoreCompileInputs.cache
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.csproj.CopyComplete
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.dll
+D:\Work\Project113_G3 VeryFinal\Project113Web-main\ProjectCrosAPI-main\Project113_G3\obj\Debug\Project113_G3.pdb

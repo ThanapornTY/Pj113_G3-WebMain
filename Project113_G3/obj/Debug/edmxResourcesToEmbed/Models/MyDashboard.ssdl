@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyDashboardModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Datagame">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameGame" Type="nvarchar" MaxLength="50" />
+    <Property Name="TypeGame" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description_Game" Type="nvarchar" MaxLength="250" />
+    <Property Name="url" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="RequestGameData">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RQGUsername" Type="nvarchar" MaxLength="50" />
+    <Property Name="RQGGame" Type="nvarchar" MaxLength="50" />
+    <Property Name="RQGDes" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="RQ_Reported">
+    <Key>
+      <PropertyRef Name="RQrp_ByUsername" />
+    </Key>
+    <Property Name="RQrp_Id" Type="int" Nullable="false" />
+    <Property Name="RQrp_ByUsername" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="RQrp_ToUserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="RQrp_Toppic" Type="nvarchar" MaxLength="100" />
+    <Property Name="RQrp_Date" Type="datetime" />
+    <Property Name="RQrp_Note" Type="nvarchar" MaxLength="300" />
+  </EntityType>
+  <EntityType Name="UserData">
+    <Key>
+      <PropertyRef Name="UID" />
+    </Key>
+    <Property Name="UID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email_User" Type="nvarchar" MaxLength="256" />
+    <Property Name="Bd_User" Type="date" />
+    <Property Name="GenderUser" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar" MaxLength="250" />
+    <Property Name="User_Id" Type="nvarchar" MaxLength="128" />
+    <Property Name="url" Type="varchar" MaxLength="250" />
+    <Property Name="JoinDate" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="MyDashboardModelStoreContainer">
+    <EntitySet Name="Datagame" EntityType="Self.Datagame" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RequestGameData" EntityType="Self.RequestGameData" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RQ_Reported" EntityType="Self.RQ_Reported" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserData" EntityType="Self.UserData" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
