@@ -1095,5 +1095,16 @@ input[type="button"].btn-block {
     width: 100%;
 }
 
+.details , .graph , .cardHeader , .Grid , .content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 20px;
+}
 
-
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 20px;
+}

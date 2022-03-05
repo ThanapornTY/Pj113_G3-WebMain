@@ -18,7 +18,7 @@ namespace Project113_G3.Controllers
             return Json(data, JsonRequestBehavior.AllowGet);
         }
 
-        public JsonResult RequestgameModel ()
+        public JsonResult RequestgameModel()
         {
 
             var orderrequestgame = new OrderDetailsDataModel();
@@ -26,15 +26,19 @@ namespace Project113_G3.Controllers
             return Json(data, JsonRequestBehavior.AllowGet);
         }
 
-        public JsonResult ReportUser()
+        public JsonResult ReportUserModel()
         {
-
             var reportuser = new OrderDetailsDataModel();
-            var data = reportuser.GetReportUser();
+            var data = reportuser.GetReportUserModel();
             return Json(data, JsonRequestBehavior.AllowGet);
         }
 
-
+        public JsonResult UserDataModel()
+        {
+            var reportuser = new OrderDetailsDataModel();
+            var data = reportuser.GetUserDataModel();
+            return Json(data, JsonRequestBehavior.AllowGet);
+        }
 
     }
 }

@@ -50,6 +50,9 @@ namespace Project113_G3.Controllers
         {
             if (ModelState.IsValid)
             {
+                /*ตัวกำหนดวันที่*/
+                rQ_Reported.RQrp_Date = DateTime.Now;
+
                 db.RQ_Reported.Add(rQ_Reported);
                 db.SaveChanges();
                 return RedirectToAction("Index");

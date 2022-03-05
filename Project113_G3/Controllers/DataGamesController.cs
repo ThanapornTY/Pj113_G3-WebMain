@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Web;
@@ -50,7 +51,15 @@ namespace Project113_G3.Controllers
         {
             if (ModelState.IsValid)
             {
+                var file = Request.Files[0];
 
+                if (file != null && file.ContentLength > 0)
+                {
+                    var fileName = Path.GetFileName(file.FileName);
+                    var path = Path.Combine(Server.MapPath("~/Content/images"), fileName);
+                    file.SaveAs(path);
+                    datagame.url = fileName;
+                }
 
                 db.Datagames.Add(datagame);
                 db.SaveChanges();

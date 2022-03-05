@@ -56,9 +56,9 @@
 
                     }
                     var options = {
-                        width: 750,
+                        width: 500,
                         height: 400,
-                        'title': 'สถิติการกล่าวถึงวิชาต่าง ๆ'
+                        'title': 'GameData'
 
                     };
                     var chart = new google.visualization.PieChart(document.getElementById('pie_chart'));
@@ -70,29 +70,62 @@
     </script>
 
 
-    <!--
-        <script type="text/javascript">
-            google.load('visualization', '1.1', { packages: ['line'] });
-            google.setOnLoadCallback(drawLineChart);
-            function drawLineChart() {
-                $.get('/API/RequestgameModel', {},
-                    function (data) {
-                        var tdata = new google.visualization.DataTable();
-                        tdata.addColumn('string', 'Model');
-                        tdata.addColumn('number', 'Amount');
-                        for (var i = 0; i < data.length; i++) {
-                            tdata.addRow([data[i].Model, data[i].Amount]);
-                        }
-                        var options = {
-                            width: 750,
-                            height: 400
-                        };
-                        var chart = new google.charts.Line(document.getElementById('line_chart'));
-                        chart.draw(tdata, options);
-                    });
-            }
-        </script>
-    -->
+    <script type="text/javascript">
+        google.charts.load('current', { packages: ['corechart'] });
+        google.setOnLoadCallback(drawPieChart);
+        function drawPieChart() {
+            $.get('/API/UserDataModel', {},
+                function (data) {
+                    var tdata = new google.visualization.DataTable();
+                    tdata.addColumn('string', 'Topic');
+                    tdata.addColumn('number', 'Amount');
+                    for (var i = 0; i < data.length; i++) {
+                        tdata.addRow([data[i].Model, data[i].Amount]);
+
+                    }
+                    var options = {
+                        width: 500,
+                        height: 400,
+                        'title': 'UserGender'
+
+                    };
+                    var chart = new google.visualization.PieChart(document.getElementById('pie3'));
+                    chart.draw(tdata, options);
+
+                });
+
+        }
+    </script>
+
+
+
+
+    <script type="text/javascript">
+        google.charts.load('current', { packages: ['corechart'] });
+        google.setOnLoadCallback(drawPieChart);
+        function drawPieChart() {
+            $.get('/API/ReportUserModel', {},
+                function (data) {
+                    var tdata = new google.visualization.DataTable();
+                    tdata.addColumn('string', 'Topic');
+                    tdata.addColumn('number', 'Amount');
+                    for (var i = 0; i < data.length; i++) {
+                        tdata.addRow([data[i].Model, data[i].Amount]);
+
+                    }
+                    var options = {
+                        width: 500,
+                        height: 400,
+                        'title': 'ReportUser'
+
+                    };
+                    var chart = new google.visualization.PieChart(document.getElementById('pie2'));
+                    chart.draw(tdata, options);
+
+                });
+
+        }
+    </script>
 
 
     <script type="text/javascript">
@@ -109,9 +142,9 @@
 
                     }
                     var options = {
-                        width: 750,
+                        width: 500,
                         height: 400,
-                        'title': 'สถิติการกล่าวถึงวิชาต่าง ๆ'
+                        'title': 'RequesGameData'
 
                     };
                     var chart = new google.visualization.PieChart(document.getElementById('pie_chartRequestgameModel'));
@@ -121,7 +154,6 @@
 
         }
     </script>
-
 
 
 
@@ -245,19 +277,37 @@
         <div class="details">
             <div class="graph">
                 <div class="cardHeader" name="cardGraph">
-                    <h2>พื้นที่แสดงกราฟ</h2>
 
-                    <!--คำสั่งใส่กราฟ-->
-                    <div id="pie_chart" style="position:center"> </div>
-
-                     
-                    <br />
-
-                    <div id="line_chart"></div>
-
-                    <div id="pie_chartRequestgameModel" ></div>
-                    <!--<table id="DataGame" class="table"></table>-->
-
+                    <table width="300" height="500">
+                        <tr>
+                            <td>
+                                <div class="content" id="pie_chart"> </div>
+                            </td>
+                            <td>
+                                <div>&nbsp; &nbsp;</div>
+                            </td>
+                            <td>
+                                <div class="content" id="pie_chartRequestgameModel"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp; &nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="content" id="pie2"></div>
+                            </td>
+                            <td>
+                                <div>&nbsp; &nbsp;</div>
+                            </td>
+                            <td>
+                                <div class="content" id="pie3"></div>
+                            </td>
+                        </tr>
+                    </table>
+                        
+ 
+                   
                 </div>
 
             </div>
